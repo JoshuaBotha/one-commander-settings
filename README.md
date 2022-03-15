@@ -1,2 +1,4 @@
-# one-commander-settings
-My settings for One Commander
+# My settings for One Commander
+
+Copy contents to:
+<One-Commander-Installation>\Settings
